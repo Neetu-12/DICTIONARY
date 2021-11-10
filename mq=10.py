@@ -6,3 +6,7 @@ for i in d:
     for j in range(len(d[i])):
         c+=1
 print(c)
+
+####
+o/p:
+ 5
