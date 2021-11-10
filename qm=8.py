@@ -1,5 +1,3 @@
-# n=input("enetr the name")
-# m=int(input("enter the marks"))
 r={}
 i=1
 while i<=10:
