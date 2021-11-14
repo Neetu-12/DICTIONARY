@@ -1,4 +1,4 @@
-#method-2
+#method-1
 i=0
 k=10
 r={}
