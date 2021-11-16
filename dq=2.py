@@ -11,8 +11,3 @@ while i<len(a):
         r.update({a[i]:c})
     i=i+1
 print(r)
-
-
-
-
-
