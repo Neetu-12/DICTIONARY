@@ -1,0 +1,3 @@
+a=num = {'physics': 80, 'math': 90, 'chemistry': 86}
+for i in a:
+    print(i)
