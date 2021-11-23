@@ -17,3 +17,10 @@ d = {0:10, 1:20}
 print(d)
 d.update({2:30})
 print(d)
+
+#method-3
+a= {0: 10, 1: 20}
+r={}
+r.update(a)
+r.update({2:30})
+print(r)
