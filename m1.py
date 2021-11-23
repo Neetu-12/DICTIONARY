@@ -1,35 +1,4 @@
-# m = {
-#     'data1':100,
-#     'data2': -54,
-#     'data3': 247
-#     }
-# i=0
-# s=0
-# while i<len(m):
-#     a=m["data1"]
-#     s=s+a
-#     i=i+1
-# print(s)
-
-
-# from typing_extensions import IntVar
-
-
-# m = {
-#     'data1':100,
-#     'data2': -54,
-#     'data3': 247
-#     }
-# n={"data1":100}+{"data3":247}
-# p={"data2":-54}
-# # s={"data1":100,+"data3":247}-"data2"-54
-# # print(n-p)
-
-# n={101:"neetu",201:"suraj",301:"baby"}
-# for i in n:
-#     print(i,"-",n[i])
-
-
+#Q-1
 dic1={1:10, 2:20}
 dic2={3:30,2:40}
 dic3={5:50,6:60}
@@ -41,8 +10,7 @@ for i in dic2:
 print(dic4)
 
 
-
-
+#Q-2
 m = {
     'data1':100,
     'data2': -54,
